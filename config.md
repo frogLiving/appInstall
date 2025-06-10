@@ -10,6 +10,7 @@
 
 In this exmaple the customer wanted a popup that allowed them to tell the customer a chrome install was kicking off.  Supplying the /qn arguements to install quietly.  Added the variable because in this example an msi was used.
 
+<code>
 popup: $True
 popupMessage: Please close Chrome for an upgrade!
 
@@ -24,3 +25,4 @@ msi2:
 program3:
 args3:
 msi3:
+</code>
