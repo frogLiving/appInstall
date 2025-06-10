@@ -10,3 +10,5 @@ To allow an engineer to install am application in a variet of formats with minim
 
 ### Switches
 -debug = Displays a bunch of data to help with troubleshooting a failure. ($True / $False or 1 / 0)
+
+[config example](config.md)
